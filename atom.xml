@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://light1862.github.io</id>
+    <title>Light</title>
+    <updated>2022-09-05T07:30:26.010Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://light1862.github.io"/>
+    <link rel="self" href="https://light1862.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://light1862.github.io/images/avatar.png</logo>
+    <icon>https://light1862.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Light</rights>
+    <entry>
+        <title type="html"><![CDATA[11111]]></title>
+        <id>https://light1862.github.io/post/11111/</id>
+        <link href="https://light1862.github.io/post/11111/">
+        </link>
+        <updated>2022-09-02T09:50:13.000Z</updated>
+        <content type="html"><![CDATA[<p>1111111</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goland 的安装教程及其安装包]]></title>
+        <id>https://light1862.github.io/post/goland/</id>
+        <link href="https://light1862.github.io/post/goland/">
+        </link>
+        <updated>2022-09-02T08:53:24.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+<!-- more -->
+<!-- more -->
+<!-- more -->
+<!-- more -->
+<p>一、Go的安装<br>
+安装包下载地址：https://golang.google.cn/dl/<br>
+<img src="https://light1862.github.io/post-images/1662109133558.png" alt="" loading="lazy"><br>
+1、到软件目录下找到go1.14.7.windows-amd64.msi，双击打开，点击next<br>
+<img src="https://light1862.github.io/post-images/1662108874420.png" alt="" loading="lazy"><br>
+2、安装协议打勾，点击next<br>
+<img src="https://light1862.github.io/post-images/1662109292378.png" alt="" loading="lazy"><br>
+3、安装路径，可以默认也可以更改。不更改点击next，想改点击Change。（记得复制一下安装路径，配置环境变量要用到）<br>
+<img src="https://light1862.github.io/post-images/1662109327160.png" alt="" loading="lazy"><br>
+4、点击Install开始安装<br>
+<img src="https://light1862.github.io/post-images/1662109419496.png" alt="" loading="lazy"><br>
+5、安装完成，点击Finish<br>
+<img src="https://light1862.github.io/post-images/1662109507846.png" alt="" loading="lazy"><br>
+二、配置环境变量<br>
+此电脑右键点击属性，高级系统设置，环境变量，<br>
+到系统变量下新建并写入如下内容<br>
+变量名  GOPATH<br>
+变量值  (你的安装目录)<br>
+<img src="https://light1862.github.io/post-images/1662109608464.png" alt="" loading="lazy"><br>
+<img src="https://light1862.github.io/post-images/1662109663164.png" alt="" loading="lazy"><br>
+<img src="https://light1862.github.io/post-images/1662109749268.png" alt="" loading="lazy"><br>
+<img src="https://light1862.github.io/post-images/1662109774214.png" alt="" loading="lazy"><br>
+<img src="https://light1862.github.io/post-images/1662109837801.png" alt="" loading="lazy"><br>
+验证GO安装<br>
+cmd 输入go<br>
+<img src="https://light1862.github.io/post-images/1662109961181.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
